@@ -1,0 +1,20 @@
+{
+  "name": "homeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\"\"",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Invikto/learn_js.git"
+  },
+  "author": "Arthur Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Invikto/learn_js/issues"
+  },
+  "homepage": "https://github.com/Invikto/learn_js#readme"
+}
